@@ -1,0 +1,9 @@
+target/
+*.class
+*.jar
+*.war
+.idea/
+*.iml
+.env
+test.json
+test2.json
